@@ -1,0 +1,28 @@
+Trabalho realizado para a Disciplina de Programacao 3
+do curso Sistemas de Informação
+
+Nome: Ruan Carlos Piccolli
+Turma: Sistemas de Informação 
+Periodo: 5
+
+O trabalho presente no repositorio refere-se a um sistema simples de cadastro
+e login de usuarios, utilizando-se do paradigma da programação orientada a objetos (POO).
+No sistema, esta presente a utilização de cookies e sessões para manter os dados
+dos formularios entre as paginas.
+
+Como Rodar o App localmente:
+
+1 - tenha localmente em sua maquina, 
+quaisquer stack que tenha php, banco de dados relacional
+e um servidor. como o Xampp (Windows) ou LAMP
+(Linux).
+OBS: Utilize a ultima versão estavel do PHP 8.3
+
+2 - clone o repositorio do projeto em sua maquina: 
+
+git clone https://github.com/RuanPiccolli2003/prog3-proj.git
+
+3 - para o codigo PHP ser renderizado pelo servidor
+no linux o projeto deve estar contido dentro da pasta html. 
+utilizando o LAMP, o caminho da pasta é /var/www/html/. ja no windows, 
+para o padrão usando o xampp, o caminho é C:\xampp\htdocs\.
