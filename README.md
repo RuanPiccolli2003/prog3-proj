@@ -20,7 +20,7 @@ dos formularios entre as paginas.
 quaisquer stack que tenha php, banco de dados relacional
 e um servidor. como o Xampp (Windows) ou LAMP
 (Linux).
-OBS: Utilize a ultima versão estavel do PHP 8.3
+OBS: Utilize a ultima versão estavel do PHP 8.3.
 
 2 - clone o repositorio do projeto em sua maquina: 
 
