@@ -1,6 +1,6 @@
 # Contexto
 
-Trabalho realizado para a Disciplina de Programacao 3
+Trabalho realizado para a Disciplina de Programação 3
 do curso Sistemas de Informação
 
 # Sobre o curso
