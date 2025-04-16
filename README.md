@@ -1,5 +1,9 @@
+# Contexto
+
 Trabalho realizado para a Disciplina de Programacao 3
 do curso Sistemas de Informação
+
+# Sobre o curso
 
 Nome: Ruan Carlos Piccolli
 Turma: Sistemas de Informação 
@@ -10,7 +14,7 @@ e login de usuarios, utilizando-se do paradigma da programação orientada a obj
 No sistema, esta presente a utilização de cookies e sessões para manter os dados
 dos formularios entre as paginas.
 
-Como Rodar o App localmente:
+# Como Rodar o App localmente:
 
 1 - tenha localmente em sua maquina, 
 quaisquer stack que tenha php, banco de dados relacional
