@@ -6,8 +6,8 @@ do curso Sistemas de Informação
 # Sobre o curso
 
 <strong>Nome:</strong> Ruan Carlos Piccolli
-<strong>Turma:</strong> Sistemas de Informação 
-Periodo: 5
+<strong>Curso:</strong> Sistemas de Informação 
+<strong>Periodo:</strong> 5 
 
 O trabalho presente no repositorio refere-se a um sistema simples de cadastro
 e login de usuarios, utilizando-se do paradigma da programação orientada a objetos (POO).
