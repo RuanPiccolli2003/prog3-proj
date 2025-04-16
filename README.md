@@ -26,3 +26,8 @@ git clone https://github.com/RuanPiccolli2003/prog3-proj.git
 no linux o projeto deve estar contido dentro da pasta html. 
 utilizando o LAMP, o caminho da pasta é /var/www/html/. ja no windows, 
 para o padrão usando o xampp, o caminho é C:\xampp\htdocs\.
+OBS: O caminho é na sua maquina (localmente).
+
+4 - no navegador acesse http://localhost/projeto-prog3/cadastro/cadastro.php
+para realizar o cadastro do usuario.
+OBS: só é possivel logar se realizar o cadastro do usuario.
