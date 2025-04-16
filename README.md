@@ -5,8 +5,8 @@ do curso Sistemas de Informação
 
 # Sobre o curso
 
-Nome: Ruan Carlos Piccolli
-Turma: Sistemas de Informação 
+<strong>Nome:</strong> Ruan Carlos Piccolli
+<strong>Turma:</strong> Sistemas de Informação 
 Periodo: 5
 
 O trabalho presente no repositorio refere-se a um sistema simples de cadastro
