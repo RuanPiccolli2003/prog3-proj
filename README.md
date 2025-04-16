@@ -6,6 +6,7 @@ do curso Sistemas de Informação
 # Sobre o curso
 
 <strong>Nome:</strong> Ruan Carlos Piccolli
+<strong>Matéria:</strong> Programação 3 
 <strong>Curso:</strong> Sistemas de Informação 
 <strong>Periodo:</strong> 5 
 
