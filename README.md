@@ -3,7 +3,7 @@
 Trabalho realizado para a Disciplina de Programação 3
 do curso Sistemas de Informação
 
-# Sobre o curso
+# Informações sobre o App e informações sobre o curso
 
 <strong>Nome:</strong> Ruan Carlos Piccolli
 <strong>Matéria:</strong> Programação 3 
